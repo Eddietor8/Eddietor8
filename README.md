@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Eddietor8
 - 👀 I’m interested in JS, python, css, saas, html
 - 🌱 I’m currently learning web development
+- ☕ Coffee lover
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Websites as my portfolio:
+My porfolio Websites:
 https://eddietor8.github.io/New-House-App-Website/
 https://eddietor8.github.io/Crypto/#
 
