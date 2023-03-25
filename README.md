@@ -12,6 +12,7 @@ My porfolio Websites:
 4. https://eddietor8.github.io/Dice-Game/
 5. https://eddietor8.github.io/WeatherAPI/
 6. https://eddietor8.github.io/Travel_website/
+7. https://eddietor8.github.io/Coffee-shop/
 <!---
 Eddietor8/Eddietor8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
